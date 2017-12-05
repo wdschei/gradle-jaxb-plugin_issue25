@@ -1,0 +1,12 @@
+# gradle-jaxb-plugin_issue25
+
+This is a
+http://sscce.org/[Short, Self Contained, Correct (Compilable), Example]
+or
+https://stackoverflow.com/help/mcve[Minimal, Complete, and Verifiable example]
+project for
+https://github.com/rackerlabs/gradle-jaxb-plugin/issues/25[gradle-jaxb-plugin issue #25].
+
+To build after cloning this project, execute:
+
+* `./gradlew java`
